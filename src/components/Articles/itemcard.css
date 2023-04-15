@@ -1,0 +1,76 @@
+.container{
+  background-color: aqua;
+  background: #ffffff;
+  justify-content: center;
+  overflow: hidden;
+}
+.header {
+  /* width:22rem; */
+  margin-top: 10px;
+  height: 47px;
+  color: #0e2368;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 27px;
+  font-size: 50px;
+}
+
+
+.card {
+  border-radius: 20.937px;
+  box-sizing: border-box;
+  background: #ffffff;
+  justify-content: center;
+  width: 20rem;
+  overflow: hidden;
+}
+.page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.pagenumber {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.card-img {
+  justify-items: center;
+  margin: 15px 10px 0px 0px;
+  padding: 10px 10px;
+}
+
+.card-title {
+  color: #0e2368;
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.cad-text {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.buttonn {
+  /* height: 36px; */
+  height:2.5rem;
+  width: 9rem;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  color: #424961;
+  border-radius: 30px;
+  background-color: #ffffff;
+  border: 1px solid;
+}

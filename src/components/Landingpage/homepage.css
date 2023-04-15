@@ -1,0 +1,91 @@
+.home{
+  background: #ffffff;
+  justify-content: center;
+}
+
+.get_button{
+  height:2.5rem;
+  width: 9rem;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  color: #424961;
+  border-radius: 30px;
+  background-color: #ffffff;
+  border: 1px solid;
+}
+
+.logo_img{
+ width:8.4vw;
+ height: 15vh;
+}
+
+.Image{
+  position: relative;
+}
+
+.image-pizza{
+  height: 70vh;
+  position: relative;
+  margin:4px 0px 0px 25px;
+}
+
+.image-vector{
+  height:80vh;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  position: absolute;
+}
+
+.h1 {
+  width:22rem;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 62px;
+  line-height: 69px;
+  color: #0e2368;
+}
+
+.p {
+  width:22rem;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  float: left;
+  color: #444957;
+  line-height: 27px;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  border-radius: 34px;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 22rem;
+  padding: 14px 34px;
+  gap: 7px;
+  background-color: #e23744;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  color: #fff;
+  border: none;
+}
+
+.carddbody {
+  /* background-color: greenyellow; */
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  float: left;
+  margin: 4rem ;
+  position: absolute;
+}

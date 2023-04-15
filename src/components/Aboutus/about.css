@@ -1,0 +1,59 @@
+.cardd_about {
+  box-sizing: border-box;
+  background: #ffffff;
+  justify-content: center;
+  overflow: hidden;
+  background-color: linear-gradient(90.07deg, rgba(30, 42, 93, 0.04) 30.91%, rgba(48, 62, 130, 0.04) 64.79%, rgba(60, 80, 157, 0.04) 91.94%);;
+  margin-top: 5rem;
+}
+.cardd-text {
+  /* background-color: yellow; */
+  font-family: Open Sans;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #444957;
+  flex-grow: 1;
+  width: 50vw;
+  /* height: 26vh; */
+}
+
+.cardd_body {
+  /* background-color: greenyellow; */
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  float: right;
+  margin: 64px auto;
+}
+
+.cardd-image {
+  /* background-color: royalblue; */
+  float: left;
+  margin-left: 8.2rem;
+}
+
+.Button {
+  /* background-color: yellow; */
+  height: 2.5rem;
+  width: 9rem;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  background-color: #e23744;
+  border-radius: 21px;
+  border: none;
+  color: #ffffff;
+  /* background-color: #ffffff; */
+  /* border: 1px solid; */
+}
+
+.cardd-title {
+  color: #0e2368;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  line-height: 27px;
+}
